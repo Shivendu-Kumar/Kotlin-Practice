@@ -1,0 +1,5 @@
+var lambda = { print("Lambda expression") }
+return}
+fun main(){
+    lambda()
+}
